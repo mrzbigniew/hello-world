@@ -1,9 +1,9 @@
 {
-  "name": "bemquery-package-boilerplate",
+  "name": "hello-world",
   "version": "0.0.0",
-  "description": "BEM selector engine",
-  "main": "dist/bemquery-package-boilerplate.umd.js",
-  "jsnext:main": "dist/bemquery-package-boilerplate.js",
+  "description": "Hello world",
+  "main": "dist/hello-word.umd.js",
+  "jsnext:main": "dist/hello-word.js",
   "scripts": {
     "lint": "eslint -c config/eslint/default.json src/**/*.js tests/**/*.js",
     "pretest": "npm run lint",
